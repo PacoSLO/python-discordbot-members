@@ -13,7 +13,7 @@ Shows Discord Server Members in the Bot Status MSG.
 <img
   src="https://github.com/PacoSLO/python-discordbot-members/blob/main/members.PNG"
   alt="Alt text"
-  title="Optional title"
+  title="Discord Members"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 **Credits**
