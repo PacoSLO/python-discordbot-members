@@ -11,7 +11,7 @@ You need pip install discord.py and pip install -U python-dotenv on your machine
 Shows Discord Server Members in the Bot Status MSG.
 
 <img
-  src="https://github.com/PacoSLO/python-discordbot-server-uptime/blob/main/uptime.PNG"
+  src="https://github.com/PacoSLO/python-discordbot-members/blob/main/members.PNG"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
