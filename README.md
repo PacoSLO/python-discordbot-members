@@ -8,7 +8,7 @@ You need pip install discord.py and pip install -U python-dotenv on your machine
 
 **Features**
 ------------------
-Shows Discord Server Members in the Bot Status MSG.
+Shows Discord Server Members in the Bot Status MSG. Added a Refresh Timer for every 5h.
 
 <img
   src="https://github.com/PacoSLO/python-discordbot-members/blob/main/members.PNG"
